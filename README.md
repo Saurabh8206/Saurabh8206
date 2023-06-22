@@ -9,7 +9,6 @@ With a solid foundation in Java development and 2+ years of experience, I have g
 
 As I progress on this career path, my goal is to bridge the gap between the frontend and backend worlds, leveraging my Java skills and integrating them with React to create seamless and efficient full-stack applications. I am excited about the opportunities that lie ahead and the chance to contribute to innovative projects as a Java Full Stack Developer.
 
-In my current role at <a href="https://www.carscan.ai/">Carscan </a>, I have had the opportunity to work on diverse projects, developing and maintaining Java applications. I am well-versed in designing and implementing software solutions while collaborating effectively with cross-functional teams to achieve project goals.
 
 </b>
 
