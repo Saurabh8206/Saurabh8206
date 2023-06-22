@@ -5,7 +5,7 @@
 
 <b> A Java developer with a passion for full-stack development. Currently, I am expanding my skill set to include React and aspiring to become a Java Full Stack Developer.
   
-With a solid foundation in Java development and 2+ years of experience, I have gained proficiency in building robust and scalable backend systems. I have worked on various projects, honing my expertise in Java, Spring Boot, and database technologies like MySQL and MongoDB.
+With a solid foundation in Java development and 3+ years of experience, I have gained proficiency in building robust and scalable backend systems. I have worked on various projects, honing my expertise in Java, Spring Boot, and database technologies like MySQL and MongoDB.
 
 As I progress on this career path, my goal is to bridge the gap between the frontend and backend worlds, leveraging my Java skills and integrating them with React to create seamless and efficient full-stack applications. I am excited about the opportunities that lie ahead and the chance to contribute to innovative projects as a Java Full Stack Developer.
 
