@@ -1,6 +1,6 @@
 
 <h1  align="center">
-  <b>Hello wolrd! 👋 I'm Saurabh Kohade</b>
+  <b>Hello world! 👋 I'm Saurabh Kohade</b>
 </h1>
 
 <b> A Java developer with a passion for full-stack development. Currently, I am expanding my skill set to include React and aspiring to become a Java Full Stack Developer.
@@ -44,18 +44,12 @@ As I progress on this career path, my goal is to bridge the gap between the fron
 
 I am excited about new opportunities and challenges. Feel free to reach out to me via email or phone call, and I will be happy to discuss how I can contribute to your projects or organization.
 
-- Email: **kohade.saurabh@gmail.com**
+- Email: **saurabh.kohade@outlook.com**
 
 - 💬 Ask me about ``` var topics = [ "Java", "SpringBoot", "MySQL", "CSS", "HTML", "ReactJs", "MongoDb" ] ```
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kohade.saurabh@gmail.com) 
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saurabh.kohade@outlook.com) 
 [![Phone](https://img.shields.io/badge/Phone-Call-green)](tel:+917030479668) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/917030479668)
-- 📄 Know about my work & experiences [My Resume](https://www.canva.com/design/DAFcnCiuCso/D2K6Olb3eH6su7Vcepc3Pw/view?)
+- 📄 Know about my work & experiences [My Resume](https://www.canva.com/design/DAFmhTqp1Zc/19cYrx-f4c1-QE_kcQDJkQ/view?utm_content=DAFmhTqp1Zc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/saurabh-kohade/) and explore possibilities of collaboration and growth.
 
 Thank you for visiting my GitHub profile! 😊
-
-
-
-
