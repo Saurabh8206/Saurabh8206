@@ -5,7 +5,7 @@
 
 <b> A Java developer with a passion for full-stack development. Currently, I am expanding my skill set to include React and aspiring to become a Java Full Stack Developer.
   
-With a solid foundation in Java development and 3+ years of experience, I have gained proficiency in building robust and scalable backend systems. I have worked on various projects, honing my expertise in Java, Spring Boot, and database technologies like MySQL and MongoDB.
+With a solid foundation in Java development and experience, I have gained proficiency in building robust and scalable backend systems. I have worked on various projects, honing my expertise in Java, Spring Boot, and database technologies like MySQL and MongoDB.
 
 As I progress on this career path, my goal is to bridge the gap between the frontend and backend worlds, leveraging my Java skills and integrating them with React to create seamless and efficient full-stack applications. I am excited about the opportunities that lie ahead and the chance to contribute to innovative projects as a Java Full Stack Developer.
 
@@ -49,7 +49,7 @@ I am excited about new opportunities and challenges. Feel free to reach out to m
 - 💬 Ask me about ``` var topics = [ "Java", "SpringBoot", "MySQL", "CSS", "HTML", "ReactJs", "MongoDb" ] ```
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saurabh.kohade@outlook.com) 
 [![Phone](https://img.shields.io/badge/Phone-Call-green)](tel:+917030479668) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/917030479668)
-- 📄 Know about my work & experiences [My Resume](https://www.canva.com/design/DAFmhTqp1Zc/19cYrx-f4c1-QE_kcQDJkQ/view?utm_content=DAFmhTqp1Zc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my work & experiences [My Resume](https://www.canva.com/)
 
 
 Thank you for visiting my GitHub profile! 😊
